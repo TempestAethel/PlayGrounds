@@ -1,6 +1,6 @@
        // Function to fetch the list of markdown files in the directory
         function fetchFileList() {
-            const apiUrl = 'https://api.github.com/repos/Runarok/GenAI/contents/Misc/Notes';
+            const apiUrl = 'https://api.github.com/repos/TempestAethel/PlayGrounds/contents/EXTRA';
             return fetch(apiUrl)
                 .then(response => response.json())
                 .then(data => {
