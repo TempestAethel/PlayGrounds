@@ -1,3 +1,5 @@
+> Note:I was a bit rushed when putting this together, so I included everything I felt was relevant, along with what the language model provided. I didn’t thoroughly verify it for potential AI-generated inaccuracies (hallucinations). For the most accurate and up-to-date information, please refer to the PDF.
+
 # **Table of Contents**
 
 1. [Best Use of Coins Guide](#coromon-best-use-of-coins-guide)
