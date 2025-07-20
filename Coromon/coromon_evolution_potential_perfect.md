@@ -72,12 +72,11 @@ Perfect Coromon are rare, special variants with the highest potential score of *
 
 ---
 
-## **References**
+### Download Coromon Officially:
 
-[1] TRAGsoft, *Coromon Official Game Guide*. [Online]. Available: https://coromon.com/
+- [Steam](https://store.steampowered.com/app/1218210/Coromon/)
+- [Epic Games Store](https://store.epicgames.com/en-US/p/coromon-d4ef84)
+- [GOG.com](https://www.gog.com/en/game/coromon)
+- [Google Play Store (Android)](https://play.google.com/store/apps/details?id=com.tragsoft.coromon)
+- [Apple App Store (iOS)](https://apps.apple.com/app/coromon/id1661658054)
 
-[2] Game8, “Coromon Beginner’s Guide: Evolution, Perfect Hunting, and More,” Game8, 2024. [Online]. Available: https://www.game8.co/
-
-[3] Gamerant, “How Breeding Works in Coromon,” *Gamerant*, 2024. [Online]. Available: https://gamerant.com/
-
-[4] C. Johnson, *Advanced Coromon Strategies: Evolution and Potential*, New York, NY, USA: RPG Insights Press, 2024. [E-book].
